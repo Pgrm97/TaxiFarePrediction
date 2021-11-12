@@ -50,8 +50,8 @@ namespace TaxiFarePrediction
             var taxiTripSample = new TaxiTrip()
             {
                 VendorId = "VTS",
-                RateCode = "2",
-                PassengerCount = 3,
+                RateCode = "1",
+                PassengerCount = 4,
                 TripTime = 1300,
                 TripDistance = 3.75f,
                 PaymentType = "CRD",
